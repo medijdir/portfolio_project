@@ -1,10 +1,21 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap");
+@media screen, (min-width: 375px) and (min-width:768) {
+ 
+  body {
+    background-color: #e5e5e5;
+    position: absolute;
+    width: 375px;
+    height: 718px;
+    left: 0px;
+    top: 0px;
+}
+  
 
 .home-page {
   background-color: #fff;
   border-radius: 0 0 0 5%;
-  margin: 15%;
+  margin: 25%;
   display: flex;
   flex-direction: column;
   height: 600px;
@@ -19,10 +30,9 @@
 
 .hamburger {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   margin: 24px 12px 0 10px;
-  padding: 0;
+  padding: 0 48px 0 48px;
 }
 
 #home {
@@ -71,4 +81,5 @@ ul {
   display: inline-block;
   text-align: center;
   margin: 10px;
+}
 }

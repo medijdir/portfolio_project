@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="2.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Portfolio Project</b></h3>
 </div>
 
