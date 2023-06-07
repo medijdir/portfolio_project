@@ -1,21 +1,17 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap");
 
-@media screen, (min-width: 375px) and (min-width: 768px) {
-  body {
-    background-color: #e5e5e5;
-    position: absolute;
-    width: 375px;
-    height: 718px;
-    left: 0;
-    top: 0;
-  }
+body {
+  background-color: #e5e5e5;
+  position: absolute;
+  width: 375px;
+  height: 718px;
+  margin: 15%;
 }
 
 .home-page {
   background-color: #fff;
   border-radius: 0 0 0 5%;
-  margin: 25%;
   display: flex;
   flex-direction: column;
   height: 600px;
@@ -36,12 +32,13 @@
 }
 
 #home {
-  background-image: url("/img/image.png");
+  background-image: url("/img/imagee.png");
   background-size: 25%;
   background-size: cover;
   background-repeat: no-repeat;
   margin: 8px 12px 0 12px;
   padding-top: 25px;
+  padding-bottom: 48px;
 }
 
 .presentation {
