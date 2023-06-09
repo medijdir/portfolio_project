@@ -70,6 +70,11 @@ h3 {
   font-size: 16px;
   line-height: 24px;
   color: #7f8cff;
+  margin-top: 12px;
+}
+
+#contact {
+  margin-top: 29.03px;
 }
 
 ul {
@@ -81,4 +86,238 @@ ul {
   display: inline-block;
   text-align: center;
   margin: 10px;
+}
+
+.page1 {
+  margin-top: 100px;
+  box-sizing: border-box;
+  border: 1px solid #fff;
+  border-radius: 16px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  padding: 16px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.image1 {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-right: 40%;
+}
+
+.text1-1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 32px;
+  color: #172b4d;
+  line-height: 44px;
+}
+
+.dot {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  background-color: #7a869a;
+}
+
+.can {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #344563;
+}
+
+.Bac {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+}
+
+.par {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563;
+  margin-top: 10px;
+}
+
+.see {
+  margin-top: 14px;
+}
+
+.button {
+  border: none;
+  cursor: pointer;
+  padding: 4px 12px;
+  margin-top: 12px;
+  width: auto;
+  height: auto;
+  background: #ebebff;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  color: #6070ff;
+  text-decoration: none;
+}
+
+.btngr {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  letter-spacing: 0.03em;
+  color: #396df2;
+  width: 126px;
+  height: 42px;
+  margin-top: 40px;
+  cursor: pointer;
+  border: 1px solid #396df2;
+  border-radius: 8px;
+  background-color: #fff;
+  text-decoration: none;
+}
+
+.btngr1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px;
+  gap: 10px;
+  width: 164px;
+  height: 48px;
+  border: 1px solid #6070ff;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.btngr1 p {
+  width: 100%;
+  height: 24px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #396df2;
+}
+
+#home1 {
+  background-color: #fff;
+  border-radius: 0 50px 0 0;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  padding: 12px;
+  margin-top: 100px;
+}
+
+.lang {
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #000;
+  margin-top: 20px;
+  margin-right: 40px;
+}
+
+.btngr:hover {
+  background-color: #6070ff;
+  box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
+  color: #ebebff;
+}
+
+.btngr:active {
+  background-color: #2230d2;
+  color: #ebebff;
+}
+
+.btngr:active,
+.btngr:focus {
+  background-color: #2230d2;
+  color: #ebebff;
+}
+
+.but {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 40%;
+  margin-top: 16px;
+}
+
+.catimg {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-items: center;
+  width: 303px;
+  height: 66.72px;
+  background: #f7f7f9;
+  border-radius: 8px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  padding: 15px;
+  margin: 15px;
+}
+
+.but li {
+  list-style-type: none;
+}
+
+.souslist {
+  list-style-type: none;
+}
+
+.gridsec {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.ulp {
+  padding-left: 12px;
+}
+
+.fa {
+  padding-top: 22px;
 }
