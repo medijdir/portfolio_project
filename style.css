@@ -323,6 +323,7 @@ img {
 }
 
 #contact_form {
+  width: fit-content;
   display: flex;
   flex-direction: column;
   padding: 114px 24px;
