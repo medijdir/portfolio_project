@@ -348,7 +348,7 @@ img {
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
-  line-height: 52px;;
+  line-height: 52px;
   display: flex;
   align-items: center;
   text-align: center;
@@ -381,16 +381,15 @@ img {
   font-weight: 400;
   font-size: 17px;
   line-height: 20px;
-  
 }
 
 ::placeholder {
   color: #172b4d;
 }
 
-.txtbox{
-  background: #FFFFFF;
-  border: 1px solid #CFD8DC;
+.txtbox {
+  background: #fff;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
   width: 327px;
   height: 170px;
@@ -399,11 +398,11 @@ img {
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: #B3BAC5;
+  color: #b3bac5;
 }
 
 .txtbox::placeholder {
-  color: #B3BAC5;
+  color: #b3bac5;
   padding: 20px;
 }
 
