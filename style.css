@@ -344,10 +344,11 @@ img {
 }
 
 .head {
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
-  line-height: 52px;
+  line-height: 52px;;
   display: flex;
   align-items: center;
   text-align: center;
@@ -355,6 +356,7 @@ img {
 }
 
 .detail {
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -374,6 +376,35 @@ img {
   background: white;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  
+}
+
+::placeholder {
+  color: #172b4d;
+}
+
+.txtbox{
+  background: #FFFFFF;
+  border: 1px solid #CFD8DC;
+  border-radius: 8px;
+  width: 327px;
+  height: 170px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #B3BAC5;
+}
+
+.txtbox::placeholder {
+  color: #B3BAC5;
+  padding: 20px;
 }
 
 .submitt {
@@ -390,6 +421,7 @@ img {
   height: 48px;
   left: 24px;
   top: 4568px;
+  margin-top: 70px;
 }
 
 .submitt:hover {
