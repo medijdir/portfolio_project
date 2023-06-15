@@ -441,7 +441,7 @@ ul {
   }
 
   .heading {
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 48px;
@@ -509,7 +509,6 @@ ul {
 
   .btn {
     float: left;
-    padding-right: 0.5rem;
     border: none;
     cursor: pointer;
     padding: 4px 12px;
@@ -526,7 +525,6 @@ ul {
     letter-spacing: 0.03em;
     color: #6070ff;
     text-decoration: none;
-}
   }
 
   .btntext {
