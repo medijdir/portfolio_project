@@ -322,6 +322,12 @@ ul {
   padding-left: 10px;
   width: 48px;
   height: 48px;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.list_img:hover {
+  opacity: 1;
 }
 
 #contact_form {
@@ -452,6 +458,16 @@ ul {
     color: #091e42;
   }
 
+  .animate {
+    transition: all 2s ease-in-out;
+  }
+
+  .animate:hover {
+    font-size: 60px;
+    background-color: yellow;
+    transform: scale(1.5);
+  }
+
   .description {
     font-size: 20px;
     line-height: 28px;
@@ -525,6 +541,12 @@ ul {
     letter-spacing: 0.03em;
     color: #6070ff;
     text-decoration: none;
+    opacity: 0.6;
+    transition: 0.5s;
+  }
+
+  .btn:hover {
+    opacity: 2;
   }
 
   .btntext {
