@@ -21,6 +21,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [💻Other projects](#Other-projects)
 - [📝 License](#license)
 
 # 📖 [Portfolio Project] <a name="about-project"></a>
@@ -138,6 +139,9 @@ I would like to thank @microverseinc for providing guidance on this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 💻 Other projects <a name="Other-projects"></a> 
+- Hello microverse:[Hello microverse] (https://github.com/medijdir/hello-microverse) 
+- survey form: [survey form] (https://github.com/medijdir/MicroverseTrialWithAlfred)
 
 ## 📝 License <a name="license"></a>
 
