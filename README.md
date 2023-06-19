@@ -42,7 +42,7 @@
 - Following the Figma design 😃👍
 
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 - You can see the live demo of the portfolio [Here](https://medijdir.github.io/portfolio_project/)😊⤵️
 <!-- GETTING STARTED -->
