@@ -51,7 +51,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/medijdir/portfolioM1_project/tree/new_branch)
+- [Live Demo Link](https://medijdir.github.io/portfolio_project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
